@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://img.shields.io/github/followers/RajshreeJaiswal?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="">🌍 | Portfolio </a></h2>
+    <h2><a href="https://rajshreejaiswal.github.io/">🌍 | Portfolio </a></h2>
 
 <!--
 
